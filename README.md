@@ -34,4 +34,8 @@ npm start
 
 Ouvrez ensuite <http://localhost:3000> (ou le port défini dans `PORT`).
 
+## Licence
+
+Ce projet est sous licence [GNU General Public License v3.0](./LICENSE).
+
 ## Projet archivé

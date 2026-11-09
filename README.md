@@ -10,7 +10,7 @@ Portfolio personnel réalisé avec Express, HTML, CSS et JavaScript. Le formulai
 ## Installation
 
 ```bash
-git clone https://github.com/Elicopter78/PortfolioV1.git
+git clone https://github.com/UncodingShrimp/PortfolioV1.git
 npm install
 cp .env.example .env
 ```
